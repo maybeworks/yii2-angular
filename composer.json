@@ -1,0 +1,30 @@
+{
+    "name": "maybeworks/yii2-angular",
+    "description": "Angular assets for Yii PHP framework 2.0",
+    "keywords": ["yii", "extension", "assets", "angular"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "B@RT",
+            "email": "bart@maybeworks.com",
+            "homepage": "http://maybeworks.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/angular": "~1.3",
+        "bower-asset/angular-i18n": "~1.3",
+        "bower-asset/angular-animate": "~1.3",
+        "bower-asset/angular-route": "~1.3",
+        "bower-asset/angular-motion": "~0.4",
+        "bower-asset/angular-cookies": "~1.3",
+        "bower-asset/angular-sanitize": "~1.3",
+        "bower-asset/angular-strap": "~2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "maybeworks\\angular\\": ""
+        }
+    }
+}
