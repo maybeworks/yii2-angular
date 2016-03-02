@@ -17,8 +17,6 @@
         "bower-asset/angular-i18n": "~1.3",
         "bower-asset/angular-animate": "~1.3",
         "bower-asset/angular-route": "~1.3",
-        "bower-asset/angular-motion": "~0.4",
-        "bower-asset/angular-cookies": "~1.3",
         "bower-asset/angular-sanitize": "~1.3"
     },
     "autoload": {
