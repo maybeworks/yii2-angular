@@ -11,7 +11,6 @@ class AngularAsset extends AssetBundle
         'maybeworks\angular\AngularI18nAsset',
         'maybeworks\angular\AngularRouteAsset',
         'maybeworks\angular\AngularSanitizeAsset',
-        'maybeworks\angular\AngularAnimateAsset',
-        'maybeworks\angular\AngularStrapAsset',
+        'maybeworks\angular\AngularAnimateAsset'
     ];
 }
