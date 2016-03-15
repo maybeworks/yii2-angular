@@ -13,7 +13,7 @@ class AngularResourceAsset extends AssetBundle
     ];
 
     public $js = [
-        'angular-route.js',
+        'angular-resource.js',
     ];
 
     public $depends = [
